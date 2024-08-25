@@ -1,0 +1,21 @@
+{
+  "name": "rest_api",
+  "version": "1.0.0",
+  "description": "building a REST api",
+  "main": "server.js",
+  "scripts": {
+    "test": "nodemon server.js"
+  },
+  "keywords": [
+    "REST",
+    "API",
+    "Node.js",
+    "express.js"
+  ],
+  "author": "rahul",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.4"
+  }
+}
